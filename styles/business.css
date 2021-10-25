@@ -1,0 +1,6 @@
+.business {
+    border-bottom: solid 0.1rem black;
+}
+.business__company_info {
+    font-size: large;
+}
