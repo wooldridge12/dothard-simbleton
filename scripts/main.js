@@ -1,7 +1,7 @@
 import { BusinessList } from "./BusinessList.js"
-import { getBusinesses } from "./database.js"
-
+import { NewYorkList } from "./NewYorkList.js"
 
 
 
 BusinessList()
+NewYorkList()
