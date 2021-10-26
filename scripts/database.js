@@ -145,5 +145,3 @@ const businesses = [
       const copyOfData = businesses.map(item => ({...item}))
       return copyOfData
   }
-
-
